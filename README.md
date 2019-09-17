@@ -17,8 +17,8 @@
 
 # Run Code
 To run the code
-·python virtualImageOptimize.py·
+`python virtualImageOptimize.py`
 直接运行即可
 
 # Discussion
-论文中有一个计算重影距离的公式，我们光学同事说是不准确的，于是给了我这篇论文 **Wedge-Angle-Measurements-for-HUD-displaysfinal.pdf**，按照这篇论文计算距离代码在 ·VirtualImageDistance.py·，如果使用这个距离公式优化重影的话，效果是不理想的，只做参考。
+论文中有一个计算重影距离的公式，我们光学同事说是不准确的，于是给了我这篇论文 **Wedge-Angle-Measurements-for-HUD-displaysfinal.pdf**，按照这篇论文计算距离代码在 `VirtualImageDistance.py`，如果使用这个距离公式优化重影的话，效果是不理想的，只做参考。
