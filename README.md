@@ -5,8 +5,7 @@
 <img src='virtualImageOptimize/describe.jpg' width='400px'/>
 
 
-为了优化这种现象，参考论文 **Image optimization on smartphone based HUD display.pdf**，复现了论文中的的思路
-部分论文截图
+为了优化这种现象，参考论文 **Image optimization on smartphone based HUD display.pdf**，复现了论文中的的思路，部分论文截图
 <img src='virtualImageOptimize/describe2.jpg' width='400px'/><img src='virtualImageOptimize/describe3.jpg' width='400px'/>
 
 ### 原图
